@@ -1,3 +1,5 @@
+@import url("http://fonts.cdnfonts.com/css/inconsolata-2");
+@import url("http://fonts.cdnfonts.com/css/space-mono");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
